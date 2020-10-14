@@ -1,0 +1,2 @@
+Fri Sep 25 20:33:28 2020 > account = 555555 > deposit > 500 kr
+Fri Sep 25 20:33:32 2020 > account = 555555 > withdrawal > 50 kr
